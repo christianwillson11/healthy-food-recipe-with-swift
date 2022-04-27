@@ -1,0 +1,11 @@
+//    func parseJSON(workoutPoseData: Data) {
+//        let decoder = JSONDecoder()
+//        do {
+//            let decodeData = try decoder.decode(Workout.self, from: workoutPoseData)
+//
+//            workoutData.append(decodeData)
+//
+//        } catch {
+//            print(error)
+//        }
+//    }
